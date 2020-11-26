@@ -1,0 +1,34 @@
+[
+    {
+      "productId": 51,
+      "skuId": 4,
+      "productName": "Long pants",
+      "action": "OutOfStock",
+      "qty": 0,
+      "reason": "You'er order 10 quantities of Long pants, but we only have 0 quantity left."
+    },
+    {
+      "productId": 222,
+      "skuId": 2,
+      "productName": "Baby Unisex Trouser",
+      "action": "OutOfStock",
+      "qty": 35,
+      "reason": "You'er order 36 quantities of Baby Unisex Trouser, but we only have 35 quantities left."
+    },
+    {
+      "productId": 243,
+      "skuId": 7,
+      "productName": "Strawberry Yogurt",
+      "action": "OutOfStock",
+      "qty": 25,
+      "reason": "You'er order 28 quantities of Strawberry Yogurt, but we only have 25 quantities left."
+    },
+    {
+      "productId": 255,
+      "skuId": 1,
+      "productName": "Mouse Pad",
+      "action": "Delete",
+      "qty": 3,
+      "reason": "Your order item - Mouse Pad has been deleted by seller."
+    }
+  ]
