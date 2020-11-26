@@ -1,5 +1,4 @@
-{
-productIssues: [
+[
     {
       "productId": 51,
       "skuId": 4,
@@ -33,4 +32,3 @@ productIssues: [
       "reason": "Your order item - Mouse Pad has been deleted by seller."
     }
   ]
-}
