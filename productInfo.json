@@ -1,0 +1,101 @@
+productInfo: [
+    {
+      "productId": 27,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/c65ffea5-e95f-47cd-ae24-1c31bc04b21f.jpg",
+      "skuId": 1,
+      "name": "Cotton Baby bed sheet",
+      "price": 12000,
+      "promotePrice": 10800,
+      "variation": "White",
+      "qty": 4,
+      "availableQty": 23
+    },
+    {
+      "productId": 51,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/3d885d86-dd4a-4f30-b055-b6ce28eedec6.jpg",
+      "skuId": 4,
+      "name": "Long pants",
+      "price": 30000,
+      "promotePrice": 29400,
+      "variation": "M,Blue",
+      "qty": 10,
+      "availableQty": 0
+    },
+    {
+      "productId": 222,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/df79f6f4-cc48-4a05-9ab2-dedaf03e1403.jpg",
+      "skuId": 1,
+      "name": "Baby Unisex Trouser",
+      "price": 16000,
+      "promotePrice": 12800,
+      "variation": "S,Red",
+      "qty": 1,
+      "availableQty": 1
+    },
+    {
+      "productId": 222,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/df79f6f4-cc48-4a05-9ab2-dedaf03e1403.jpg",
+      "skuId": 2,
+      "name": "Baby Unisex Trouser",
+      "price": 16000,
+      "promotePrice": 12800,
+      "variation": "S,Blue",
+      "qty": 36,
+      "availableQty": 35
+    },
+    {
+      "productId": 222,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/df79f6f4-cc48-4a05-9ab2-dedaf03e1403.jpg",
+      "skuId": 3,
+      "name": "Baby Unisex Trouser",
+      "price": 16000,
+      "promotePrice": 12800,
+      "variation": "S,Silver",
+      "qty": 40,
+      "availableQty": 40
+    },
+    {
+      "productId": 243,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/80a3cbd4-23e8-4676-ad71-1e0f30ebe7ca.jpg",
+      "skuId": 4,
+      "name": "Strawberry Yogurt",
+      "price": 400,
+      "promotePrice": 380,
+      "variation": "Berry,100ml",
+      "qty": 20,
+      "availableQty": 20
+    },
+    {
+      "productId": 243,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/80a3cbd4-23e8-4676-ad71-1e0f30ebe7ca.jpg",
+      "skuId": 7,
+      "name": "Strawberry Yogurt",
+      "price": 400,
+      "promotePrice": 380,
+      "variation": "Orange,100ml",
+      "qty": 28,
+      "availableQty": 25
+    },
+    {
+      "productId": 243,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/80a3cbd4-23e8-4676-ad71-1e0f30ebe7ca.jpg",
+      "skuId": 10,
+      "name": "Strawberry Yogurt",
+      "price": 400,
+      "promotePrice": 380,
+      "variation": "Delight,100ml",
+      "qty": 66,
+      "availableQty": 9998
+    },
+    {
+      "productId": 255,
+      "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/f06c927f-b55f-490d-a609-f92e1627bc6a.jpg",
+      "skuId": 1,
+      "name": "Mouse Pad",
+      "price": 5000,
+      "promotePrice": 0,
+      "variation": "Normal,Pink",
+      "qty": 3,
+      "availableQty": 3
+    }
+  ]
