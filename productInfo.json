@@ -1,5 +1,4 @@
-{
-productInfo:[
+[
     {
       "productId": 27,
       "productUrl": "https://aws-mhs-bucket.s3-ap-southeast-1.amazonaws.com/ITBaby/images/product/c65ffea5-e95f-47cd-ae24-1c31bc04b21f.jpg",
@@ -100,4 +99,3 @@ productInfo:[
       "availableQty": 3
     }
   ]
-}
